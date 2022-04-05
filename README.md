@@ -23,10 +23,10 @@ famous-work.surge.sh
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/leozbroca/promobit>
+$ git clone <https://github.com/leozbroca/TMDB-movies-Case>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd promobit
+$ cd TMDB-movies-Case
 
 # Instale as dependências
 $ npm install
